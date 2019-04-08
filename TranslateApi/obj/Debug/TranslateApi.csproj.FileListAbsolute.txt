@@ -1,0 +1,10 @@
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\bin\Debug\TranslateApi.exe.config
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\bin\Debug\TranslateApi.exe
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\bin\Debug\TranslateApi.pdb
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\bin\Debug\DarrenLee.Translator.dll
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\obj\Debug\TranslateApi.csprojResolveAssemblyReference.cache
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\obj\Debug\TranslateApi.Form1.resources
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\obj\Debug\TranslateApi.Properties.Resources.resources
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\obj\Debug\TranslateApi.csproj.GenerateResource.Cache
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\obj\Debug\TranslateApi.exe
+C:\Users\yed_3\Desktop\TranslateApi\TranslateApi\obj\Debug\TranslateApi.pdb
